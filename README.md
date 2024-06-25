@@ -7,17 +7,17 @@ A telegram bot that downloads videos from Pinterest works quite quickly.
 - [Release (Stable ver.)](#тестирование)
 - [badcode](#команда-проекта)
 
-## Использование
-Расскажите как установить и использовать ваш проект, покажите пример кода:
+## Usage
+You should transfer all files from the repository and move them to folders according to imports.
 
-Установите pip-пакет с помощью команды:
+Install the pip package using the command:
 ```sh
 pip unstall requests
 pip install beautifulsoup4
 pip install lxml
 ```
 
-## Разработка
+## Development
 
-### Требования
-Для установки и запуска проекта, необходим [Python 3.0](https://www.python.org/).
+### Requirements
+To install and run the project, you need [Python 3.0](https://www.python.org/).
